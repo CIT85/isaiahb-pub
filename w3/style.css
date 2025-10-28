@@ -1,0 +1,15 @@
+html {font-style: oblique;
+    font-size:x-large;
+     }
+body {background-color: skyblue;
+color : indigo
+}   
+a {
+ color:aliceblue;   
+}
+a :visited{
+    color: lightgray;
+}
+a:hover, a:active{
+ color: #eee    
+}
